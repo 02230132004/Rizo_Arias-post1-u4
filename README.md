@@ -7,10 +7,11 @@ Aplicación Android en Kotlin con **Room Database**, migración de esquema 1 →
 
 ## 📸 Evidencias
 
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/b5af70dc-fe87-4c7b-94a9-05c026958c74" />
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/b99e8817-2218-4753-bdc1-00ee32072f91" />
  Lista de tareas (versión 1) 
  
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/b99e8817-2218-4753-bdc1-00ee32072f91" />  Archivo 2.json del esquema 
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/51f75c65-b903-4e42-ac90-d8fdbf7a2b7f" />
+Archivo 2.json del esquema 
  
  [captura_datos_migrados.png](evidencias/captura_datos_migrados.png)  App después de la migración 
  
